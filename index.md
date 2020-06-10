@@ -1,6 +1,6 @@
 ## Le dessin digital
 
-You can use the [editor on GitHub](https://github.com/WendLS/Aori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Le dessin numérique ou " dessin digital " est une forme d'art où toutes les techniques traditionnelles comportant les différents types de peinture, le dessin au crayon ou au fusain et les couleurs sont appliquées via des outils numériques. Cette technologie est très utilisée par les illustrateurs, les graphistes et autres pour ses très grandes possiblités et son efficacité. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
