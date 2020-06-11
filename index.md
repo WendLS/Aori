@@ -7,6 +7,14 @@ Ce dossier traitera de l'historique de cette technologie, des techniques, outils
 
 ![Image de tablette graphique sans écran](https://lescahiersdudebutant.fr/wp-content/uploads/2019/10/meilleure-tablette-graphique.jpg)
 
+### Historique
+
+### Techniques 
+
+### Outils principaux
+
+### Logiciels populaires 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
