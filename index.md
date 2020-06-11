@@ -1,6 +1,9 @@
 ## Le dessin digital
 
-Le dessin numérique ou " dessin digital " est une forme d'art où toutes les techniques traditionnelles comportant les différents types de peinture, le dessin au crayon ou au fusain et les couleurs sont appliquées via des outils numériques. Cette technologie est très utilisée par les illustrateurs, les graphistes et autres pour ses très grandes possiblités et son efficacité. 
+### Introduction
+
+Le dessin numérique ou  dessin digital  est une forme d'art où toutes les techniques traditionnelles comportant les différents types de peinture, le dessin au crayon ou au fusain et les couleurs sont appliquées via des outils numériques. Cette technologie est très utilisée par les illustrateurs, graphistes et autres pour ses très grandes possiblités et son efficacité. De professionnels à débutants, elle convient à un très large public. 
+Ce dossier traitera de l'historique de cette technologie, des techniques, outils et ensuite de certains logiciels.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
