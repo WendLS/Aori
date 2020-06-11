@@ -13,7 +13,16 @@ Ce dossier traitera de l'historique de cette technologie, des techniques, outils
 
 ### Outils principaux
 
-### Logiciels populaires 
+### Quelques logiciels 
+Ces logiciels ci-dessous permettent de dessiner à l'aide d'une tablette graphique ou même d'un souris. La souris ne permet pas de faire usage de la pression comme avec le stylet, mais certains logiciels (comme Paint) ne le permettent pas non plus.
+
+- Photoshop
+- Paint tool Sai
+- Procreate
+- Gimp
+- Illustrator 
+
+Il en existe une grande variété avec à chaque fois leurs propres spécificités. 
 
 ### Markdown
 
