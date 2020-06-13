@@ -26,6 +26,16 @@ En 2020, nous disposons donc de tablettes graphiques avec de grands écrans (5Oc
 
 ### Techniques 
 
+Dessin, peinture, sculpture, dessin en 3D ou même mélange de plusieurs techniques, l'art numérique se montre parfois plus permissif que celui traditionnel et ouvre de nouvelles possibilités artistiques comme démontré dans cet article :
+
+MAFFEI, Maude. Qu’est ce que le dessin numérique ? [en ligne]. [consulté le 13 juin 2020]. Disponible sur le web : [http://www.observatoire-art-contemporain.com/revue_decryptage/tendance_a_suivre.php?id=20120993](http://www.observatoire-art-contemporain.com/revue_decryptage/tendance_a_suivre.php?id=20120993)
+
+![Le dessin digital et combinaison de techniques](https://i58.servimg.com/u/f58/18/73/43/70/110.png)
+![Effet de sculpture par le dessin digital](https://i58.servimg.com/u/f58/18/73/43/70/210.png)
+![Spacialisation du dessin](https://i58.servimg.com/u/f58/18/73/43/70/310.png)
+![Definition du dessin et dessin 3D](https://i58.servimg.com/u/f58/18/73/43/70/410.png)
+![4eme mur en dessin](https://i58.servimg.com/u/f58/18/73/43/70/510.png)
+
 ### Outils principaux
 
 ### Quelques logiciels 
