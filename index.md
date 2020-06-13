@@ -22,7 +22,7 @@ WARE, Hard. Quelles sont les 10 meilleures tablettes graphiques avec écran ? Co
 
 ![Top 10 des tablettes graphiques en juin 2020](https://i58.servimg.com/u/f58/18/73/43/70/travai11.png)
 
-En 2020, nous disposons donc de tablettes graphiques avec de grands écrans, un bon rendu des couleurs, des stylets qu'on doit recharger de moins en moins souvent et qui n'ont pas de latence avec l'écran, un écran de très bonne qualité, de nombreuses touches de raccourcis et des prix qui varient. Pour une tablette avec écran, il faut compter entre 300 et 4000 euros. 
+En 2020, nous disposons donc de tablettes graphiques avec de grands écrans (5Ocm aujourd'hui contre une surface de 10cm pour le Koalapad), un bon rendu des couleurs, des stylets qu'on doit recharger de moins en moins souvent et qui n'ont pas de latence avec l'écran, un écran de très bonne qualité, de nombreuses touches de raccourcis et des prix qui varient. Pour une tablette avec écran, il faut compter entre 300 et 4000 euros. 
 
 ### Techniques 
 
