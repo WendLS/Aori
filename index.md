@@ -12,11 +12,17 @@ ANON. Tablette graphique [en ligne]. [consulté le 11 juin 2020]. Disponible sur
 
 ![Première tablette graphique](https://i58.servimg.com/u/f58/18/73/43/70/travai10.png)
 
-Après cette première tablette, beaucoup d'autres ont vu le jour et de grandes marques spécialisées dans ce domaine ont commencées à se faire connaître comme Wacom et Huion. Quand on débute dans le dessin digital, il est souvent conseillé d'acheter une Wacom Intuos car elle est pratique et peu chère. C'est mon experience et ce que j'ai pu constater durant des années. 
+Après cette première tablette, beaucoup d'autres ont vu le jour et de grandes marques spécialisées dans ce domaine ont commencées à se faire connaître comme Wacom et Huion. Quand on débute dans le dessin digital, il est souvent conseillé d'acheter une Wacom Intuos car elle est pratique et la moins chère qu'on puisse trouver sur le marché (~70 euros). C'est mon experience et ce que j'ai pu constater durant des années. 
 
 ![Wacom intuos](https://http2.mlstatic.com/tableta-digitalizadora-wacom-intuos-draw-creative-pen-tablet-D_NQ_NP_815905-MEC31354633379_072019-O.jpg)
 
-Cette tablette graphique n'a pas d'écran comme les toutes premières et rend l'approche du dessin numérique difficile car il faut apprendre à regarder l'écran où apparaît le dessin et non pas là où on dessine comme on a l'habitude avec le papier. Les tablettes graphiques avec écran sont donc un confort qui a du vite apparaître mais qui ne sont pas très accessibles encore aujourd'hui à cause de leurs prix. Je n'ai pas pu trouver plus de données historiques, donc voici le meilleur des tablettes graphiques celon [ce site](https://lescahiersdudebutant.fr/peripheriques/tablettes-graphiques-avec-ecran/) en juin 2020 : 
+Cette tablette graphique n'a pas d'écran comme les toutes premières et rend l'approche du dessin numérique difficile car il faut apprendre à regarder l'écran où apparaît le dessin et non pas là où on dessine comme on a l'habitude avec le papier. Les tablettes graphiques avec écran sont donc un confort qui a du vite apparaître mais qui ne sont pas très accessibles encore aujourd'hui à cause de leurs prix. Je n'ai pas pu trouver plus de données historiques, donc voici les meilleures tablettes graphiques celon [ce site](https://lescahiersdudebutant.fr/peripheriques/tablettes-graphiques-avec-ecran/) en juin 2020 : 
+
+WARE, Hard. Quelles sont les 10 meilleures tablettes graphiques avec écran ? Comparatif, avis et guide d’achat [en ligne]. [consulté le 13 juin 2020]. Disponible sur le web : [https://lescahiersdudebutant.fr/peripheriques/tablettes-graphiques-avec-ecran/](https://lescahiersdudebutant.fr/peripheriques/tablettes-graphiques-avec-ecran/)
+
+![Top 10 des tablettes graphiques en juin 2020](https://i58.servimg.com/u/f58/18/73/43/70/travai11.png)
+
+En 2020, nous disposons donc de tablettes graphiques avec de grands écrans, un bon rendu des couleurs, des stylets qu'on doit recharger de moins en moins souvent et qui n'ont pas de latence avec l'écran, un écran de très bonne qualité, de nombreuses touches de raccourcis et des prix qui varient. Pour une tablette avec écran, il faut compter entre 300 et 4000 euros. 
 
 ### Techniques 
 
