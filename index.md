@@ -8,6 +8,9 @@ Ce dossier traitera de l'historique de cette technologie, des techniques, outils
 ![Image de tablette graphique sans écran](https://lescahiersdudebutant.fr/wp-content/uploads/2019/10/meilleure-tablette-graphique.jpg)
 
 ### Historique
+ANON. Tablette graphique [en ligne]. [consulté le 11 juin 2020]. Disponible sur le web : [https://fr.wikipedia.org/wiki/Tablette_graphique](https://fr.wikipedia.org/wiki/Tablette_graphique)
+
+![Première tablette graphique](https://i58.servimg.com/u/f58/18/73/43/70/travai10.png)
 
 ### Techniques 
 
