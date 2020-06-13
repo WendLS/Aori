@@ -36,6 +36,10 @@ MAFFEI, Maude. Qu’est ce que le dessin numérique ? [en ligne]. [consulté le 
 ![Definition du dessin et dessin 3D](https://i58.servimg.com/u/f58/18/73/43/70/410.png)
 ![4eme mur en dessin](https://i58.servimg.com/u/f58/18/73/43/70/510.png)
 
+Personnellement, je ne fais que dessiner avec ma petite intuos, même si je pourrais peindre si j'en avais envie. 
+
+![Un petit dessin personnel](https://pbs.twimg.com/media/EZ0V00WWsAED9eb?format=png&name=900x900)
+
 ### Outils principaux
 
 ### Quelques logiciels 
