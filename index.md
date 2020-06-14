@@ -38,6 +38,27 @@ MAFFEI, Maude. Qu’est ce que le dessin numérique ? [en ligne]. [consulté le 
 
 ### Outils principaux
 
+Chaque logiciel dispose de plus ou moins d'outils. Illustrator par exemple, en a une grosse quantité comme démontré ici :
+
+ADOBE. Utilisation des outils dans illustrator [en ligne]. (consulté le 14 juin 2020) Disponible sur le web : https://helpx.adobe.com/be_fr/illustrator/using/tools.html
+
+![Charte des outils illustrator](https://helpx.adobe.com/content/dam/help/fr/illustrator/using/tools/jcr_content/main-pars/image_2118360399/Tool-bar-chart.png)
+
+Ce logiciel est plutot utilisé dans les écoles d'art.
+
+Photoshop, lui, a plutot le même genre d'outils qu'on peut retrouver chez Paint tool Sai ou Gimp. Ils sont faciles à comprendre et à prendre en main et se retrouvent d'un logiciel à l'autre. 
+
+GALDON. Les outils dans Photoshop [en ligne]. (Consulté le 14 juin 2020). Disponible à l'adresse : http://www.finalclap.com/tuto/cours-photoshop-14/outils-16/
+
+![Charte des outils photoshop](https://i58.servimg.com/u/f58/18/73/43/70/ps10.png)
+
+Les outils sont très souvent reconnaissables par leurs pictogrammes semblables d'un logiciel à l'autre.
+
+![Outils](https://i58.servimg.com/u/f58/18/73/43/70/outils10.png)
+
+(Screen tiré de mon logiciel Paint Tool Sai.)
+
+
 ### Quelques logiciels 
 Ces logiciels ci-dessous permettent de dessiner à l'aide d'une tablette graphique ou même d'un souris. La souris ne permet pas de faire usage de la pression comme avec le stylet, mais certains logiciels (comme Paint) ne le permettent pas non plus.
 
