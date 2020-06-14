@@ -52,7 +52,7 @@ GALDON. Les outils dans Photoshop [en ligne]. (Consulté le 14 juin 2020). Dispo
 
 ![Charte des outils photoshop](https://i58.servimg.com/u/f58/18/73/43/70/ps10.png)
 
-Les outils sont très souvent reconnaissables par leurs pictogrammes semblables d'un logiciel à l'autre.
+Les outils sont très souvent reconnaissables par leurs pictogrammes qui ne changent que très peu entre chaque logiciel. 
 
 ![Outils](https://i58.servimg.com/u/f58/18/73/43/70/outils10.png)
 
