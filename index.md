@@ -36,51 +36,16 @@ MAFFEI, Maude. Qu’est ce que le dessin numérique ? [en ligne]. [consulté le 
 ![Definition du dessin et dessin 3D](https://i58.servimg.com/u/f58/18/73/43/70/410.png)
 ![4eme mur en dessin](https://i58.servimg.com/u/f58/18/73/43/70/510.png)
 
-Personnellement, je ne fais que dessiner avec ma petite intuos, même si je pourrais peindre si j'en avais envie. 
-
-![Un petit dessin personnel](https://pbs.twimg.com/media/EZ0V00WWsAED9eb?format=png&name=900x900)
-
 ### Outils principaux
 
 ### Quelques logiciels 
 Ces logiciels ci-dessous permettent de dessiner à l'aide d'une tablette graphique ou même d'un souris. La souris ne permet pas de faire usage de la pression comme avec le stylet, mais certains logiciels (comme Paint) ne le permettent pas non plus.
 
-- Photoshop
-- Paint tool Sai
-- Procreate
-- Gimp
-- Illustrator 
+- [Photoshop](https://www.adobe.com/be_fr/products/photoshop.html)
+- [Paint tool Sai](https://painttool-sai.fr.softonic.com/)
+- [Procreate](https://apps.apple.com/fr/app/procreate/id425073498)
+- [Gimp](https://www.gimp.org/)
+- [Illustrator](https://www.adobe.com/be_fr/products/illustrator.html) 
 
 Il en existe une grande variété avec à chaque fois leurs propres spécificités. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WendLS/Aori/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
